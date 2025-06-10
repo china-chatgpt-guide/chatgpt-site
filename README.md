@@ -1,12 +1,12 @@
 # ChatGPT 中文版 ：国内最简单的ChatGPT使用指南（支持GPT-4/4o，无需翻墙）【6月最新】
 
-> **更新时间： 2025/06/07**       
+> **更新时间： 2025/06/12**       
 
-本文提供全面的 [**ChatGPT 中文版**](https://chat.lanjing.pro) 使用指南，推荐国内镜像网站，支持GPT-4和3.5，无需翻墙。教你快速使用 **ChatGPT 中文版**
+本文提供全面的 [**ChatGPT 中文版**](https://chat.lanjingai.org) 使用指南，推荐国内镜像网站，支持GPT-4和3.5，无需翻墙。教你快速使用 **ChatGPT 中文版**
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://xsimplechat.com) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需要
 
-**ChatGPT 中文版：[chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版：[chat.lanjingai.org](https://chat.lanjingai.org)**   
 **ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)**
 
 ---
@@ -26,7 +26,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专为中文用户提供更流畅、更精准的对话体验。  
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -42,7 +42,7 @@
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，Claude，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4, GPT-o1, Claude, Gemini,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT-4, GPT-o1, Claude, Gemini,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, DeepSeek-R1 | 有              | 国内扫码支持        | ⭐⭐⭐⭐     | 支持开发者使用，提供长时间服务                 |
 | [yixiaai.cn](https://yixiaai.cn)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
